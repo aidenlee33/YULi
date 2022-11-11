@@ -3,7 +3,7 @@
 
 
 
-![initial](https://raw.githubusercontent.com/aidenlee33/YULi/main/ogimage.jpg)
+![initial](https://raw.githubusercontent.com/aidenlee33/YULi/main/ogimage2.jpg)
 
 ## YULi란 무엇입니까?
 YeoUL i(nterpreter)
